@@ -385,7 +385,7 @@ If you encounter any issues or have questions:
 **Manjeet Singh** — Software Engineer | AI & Cloud Specialist (Bengaluru)
 
 - **Email**: iiammanjeet@gmail.com
-- **LinkedIn**: (share your profile URL)
+- **LinkedIn**: https://www.linkedin.com/in/manjeet2005/
 
 ### Summary
 Passionate software engineer specializing in AI and cloud technologies, turning ideas into impactful software. Experienced in full‑stack development and team leadership, with active mentorship and open‑source contributions. Committed to continuous learning and practical application of cutting‑edge tech.
