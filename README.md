@@ -391,7 +391,6 @@ If you encounter any issues or have questions:
 Passionate software engineer specializing in AI and cloud technologies, turning ideas into impactful software. Experienced in full‑stack development and team leadership, with active mentorship and open‑source contributions. Committed to continuous learning and practical application of cutting‑edge tech.
 
 
-
 ---
 
 **Made with ❤️ for the NLP community**
