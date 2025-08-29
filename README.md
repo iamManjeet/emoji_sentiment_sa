@@ -16,6 +16,7 @@ A comprehensive machine learning project for sentiment analysis with special foc
 - [Contributing](#contributing)
 - [License](#license)
 
+<a id="project-overview"></a>
 ## 🎯 Project Overview
 
 This project implements advanced sentiment analysis models that can understand and classify text sentiment, with particular attention to how emojis influence sentiment classification. The system uses both traditional NLP techniques and emoji-specific features to improve sentiment prediction accuracy.
@@ -28,6 +29,7 @@ This project implements advanced sentiment analysis models that can understand a
 - **Production-ready**: Comprehensive error handling, testing, and documentation
 - **High accuracy**: Achieves 76.85% accuracy on test data
 
+<a id="features"></a>
 ## ✨ Features
 
 ### 🔍 Sentiment Analysis
@@ -55,6 +57,7 @@ This project implements advanced sentiment analysis models that can understand a
 - **File upload**: Support for CSV batch processing
 - **Model selection**: Choose from different trained models
 
+<a id="project-structure"></a>
 ## 📁 Project Structure
 
 ```
@@ -78,6 +81,7 @@ emoji_sentiment_sa/
 └── 📄 start_app.bat            # Easy start script (Windows)
 ```
 
+<a id="installation"></a>
 ## 🚀 Installation (Minimal)
 
 ### Prerequisites
@@ -117,6 +121,7 @@ pip install -r requirements.txt
 Place a trained model file in `models/`, e.g. `models/logistic_emoji_True.joblib`.
 If you don’t have one yet, you can use the included one (if provided) or train later.
 
+<a id="quick-start"></a>
 ## ⚡ Quick Start
 
 ```bash
@@ -146,6 +151,7 @@ streamlit run app.py
 
 Open your browser and go to `http://localhost:8501`
 
+<a id="usage"></a>
 ## 📖 Usage
 
 ### Command Line Interface (Optional)
@@ -196,6 +202,7 @@ prediction = classifier.predict([cleaned_text])[0]
 print(f"Sentiment: {prediction}")  # 1 for Positive, 0 for Negative
 ```
 
+<a id="model-performance"></a>
 ## 📊 Model Performance
 
 ### Current Results (Logistic Regression with Emoji Features)
@@ -217,6 +224,16 @@ print(f"Sentiment: {prediction}")  # 1 for Positive, 0 for Negative
 | Random Forest | ~78% | ~10 minutes | Medium |
 | Transformer | ~80% | ~30 minutes | High |
 
+<a id="api-reference"></a>
+## 🧩 API Reference
+
+This project is primarily a web app + CLI. Public entry points:
+- CLI: `predict.py` — arguments `--text`, `--file`, `--model_path`, `--model_type`, `--output`, `--emoji_only`
+- Programmatic: `EmojiSentimentClassifier` in `train.py` with `load`, `predict`, `train`, and `extract_features`
+
+For detailed usage, see the Usage and Programmatic Usage sections.
+
+<a id="configuration"></a>
 ## 🔧 Configuration
 
 The project uses a centralized configuration system in `config.py`:
@@ -241,9 +258,11 @@ FEATURE_CONFIG = {
 }
 ```
 
+<a id="testing"></a>
 ## 🧪 Testing (Optional)
 You can create your own quick checks using small scripts or the CLI; built-in test harnesses were removed for a minimal app footprint.
 
+<a id="example-usage"></a>
 ## 📝 Example Usage
 
 ### Text Preprocessing
@@ -303,6 +322,7 @@ df_results = pd.DataFrame(results)
 print(df_results)
 ```
 
+<a id="contributing"></a>
 ## 🤝 Contributing
 
 We welcome contributions! Here's how you can help:
@@ -331,6 +351,7 @@ flake8 .
 streamlit run app.py
 ```
 
+<a id="license"></a>
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -358,11 +379,6 @@ If you encounter any issues or have questions:
 - **v1.2.0**: Added web interface and transformer models
 - **v1.3.0**: Improved documentation and testing
 
----
-
-**Made with ❤️ for the NLP community**
-
----
 
 ## 👤 About the Author
 
@@ -399,3 +415,9 @@ Agile, Scrum, Git, GitHub, REST, SQL, Java, Python, JavaScript/TypeScript, React
 ### Interests
 - Tech mentor (Code for Good): mentored 50+ students in AI/ML & cloud
 - Open‑source contributor (web and software frameworks)
+
+---
+
+**Made with ❤️ for the NLP community**
+
+---
