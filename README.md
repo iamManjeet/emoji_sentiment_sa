@@ -382,7 +382,7 @@ If you encounter any issues or have questions:
 
 ## 👤 About the Author
 
-**Manjeet Singh** — Software Engineer | AI & Cloud Specialist (Bengaluru)
+**Manjeet Singh** — Software Engineer | Learning Developer (Bengaluru)
 
 - **Email**: iiammanjeet@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/manjeet2005/
@@ -390,31 +390,7 @@ If you encounter any issues or have questions:
 ### Summary
 Passionate software engineer specializing in AI and cloud technologies, turning ideas into impactful software. Experienced in full‑stack development and team leadership, with active mentorship and open‑source contributions. Committed to continuous learning and practical application of cutting‑edge tech.
 
-### Experience Highlights
-- Lead Developer, Smart India Hackathon (SIH 2024): Led a team of 4; integrated person detection, gender classification, hotspot analysis; built SOS Gesture Recognition for crime prevention (08/2024–10/2024)
-- Project Contributor, NASA Space Apps Challenge: Built interactive orrery web app with real‑time celestial tracking (React.js, AWS); managed 1TB+ datasets on S3/EC2; improved engagement by 25% (07/2024–09/2024)
-- Freelance Developer (E‑commerce): Custom platform (React, Node, MongoDB); +35% sales; payments (Stripe, UPI, PayPal); −20% cart abandonment (05/2023–06/2024)
-- Freelance Developer (Healthcare): HIPAA‑compliant patient management (Python, AWS); real‑time analytics for faster decisions (05/2023–06/2024)
 
-### Education
-- B.Tech, Computer Science & Engineering — Sri Venkateswara College of Engineering (SVCE), Bengaluru (07/2023–07/2027)
-
-### Key Achievements
-- SIH 2024 Finalist — Women Safety Analytics
-- NASA Space Apps — College‑level finalist (2024)
-- Optimized system performance by 20% at Tech Innovators Pvt. Ltd.
-
-### Skills
-Agile, Scrum, Git, GitHub, REST, SQL, Java, Python, JavaScript/TypeScript, React, Node.js, HTML, Docker, Kubernetes, AWS (EC2, S3, Cloud), Google Firebase, MongoDB, E‑commerce, Payment Gateways (Stripe/UPI/PayPal), Red Hat
-
-### Notable Projects
-- RedHat Squad Platform — Awarded 1st place (SVCE). Responsive platform for clubs/events with calendars, profiles, forums; +30% user retention via React + Firebase.
-- Cloud‑Based Inventory Management — Python + AWS; −30% manual errors; REST APIs for logistics; +50% data sync.
-- Task Management App — React + Firebase Auth/Firestore; improved task completion time by 20% via UX and reminders.
-
-### Interests
-- Tech mentor (Code for Good): mentored 50+ students in AI/ML & cloud
-- Open‑source contributor (web and software frameworks)
 
 ---
 
