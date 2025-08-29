@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+
+# Virtual env
+venv/
+
+# Data (exclude raw and processed large files)
+data/raw/
+data/processed/
+
+# Models (optional: comment this out if you want to commit small model files)
+# models/*
+
+# OS/Editor
+.DS_Store
+.vscode/
+
